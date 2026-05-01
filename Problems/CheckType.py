@@ -1,0 +1,6 @@
+a = input("Enter 1st type you want to check: ")
+b = input("Enter 2nd type you want to check: ")
+t1 = type(a)
+t2 = type(b)
+print(t1)
+print(t2)
